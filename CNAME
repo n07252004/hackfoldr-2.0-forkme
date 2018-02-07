@@ -1,1 +1,6 @@
-(your domain name)
+name: hack.etblue.tw.
+  type: CNAME
+  value: n07252004.github.io
+  evaluate target: -
+  health check id: -
+  ttl: 300   
